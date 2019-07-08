@@ -1,0 +1,7 @@
+bounding-box
+
+/*use this to fix issues with boxes hitting
+/* clearfix(
+    clear: both;
+    overflow: hidden;
+) */
