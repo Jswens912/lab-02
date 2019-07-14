@@ -1,7 +1,35 @@
-bounding-box
+header{
+    background: rgb(66, 135, 245);
+    font-size:48;
+    border: 2px solid;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+/* .restaraunts{
+    font-family: 'Noto Sans', sans-serif;
+    width: 200px;
+    float: left;
+    
 
-/*use this to fix issues with boxes hitting
-/* clearfix(
-    clear: both;
-    overflow: hidden;
-) */
+}
+.countries{
+    font-family: 'Noto Sans', sans-serif;
+    width: 200px;
+    float: left;
+
+} */
+h3 {
+    font-size: 24;
+    border: 2px solid;
+    float: left;
+    padding: 5px;
+}
+h2 {
+    font-size: 24;
+    border: 2px solid;
+    float: left;
+    padding: 5px;
+}
